@@ -1,0 +1,2 @@
+# Fausts-Bargain
+Learning resource
